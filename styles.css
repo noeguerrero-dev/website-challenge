@@ -1,0 +1,83 @@
+/*nav ul*/
+.my-navbar {
+  list-style-type: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #393e46;
+}
+
+/*nav li*/
+.nav-list {
+  float: left;
+}
+
+/*nav a*/
+.navlink {
+  display: block;
+  color: #00adb5;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/*nav a hover*/
+.navlink:hover {
+  background-color: #393e46;
+  font-size: 42px;
+  color: #eeeeee
+}
+
+h1 {
+  color: #00adb5;
+  text-align: center;
+  font-size: 150px;
+}
+
+h3 {
+  font-size: 55px;
+  color: #00adb5;
+  text-align: center;
+}
+
+body {
+  font-size: 40px;
+  background-color: #222831;
+  ;
+  color: #eeeeee;
+}
+
+p {
+  text-align: center;
+}
+
+/*
+ul {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #f9d5bb;
+}*/
+ol {
+  width: 75px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#education {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#hobbies {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
